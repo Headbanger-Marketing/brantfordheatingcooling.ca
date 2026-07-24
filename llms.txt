@@ -1,15 +1,26 @@
 # Brantford Heating & Cooling
 
-> Licensed, insured HVAC company in Brantford, Ontario. A full-service heating and cooling team handling furnace and AC repair, heat pumps, ductless systems, thermostats, and duct cleaning, plus seasonal maintenance, for homeowners across Brantford and Brant/Haldimand-Norfolk. Call (519) 756-3142.
+> Brantford Heating & Cooling is a local HVAC company serving Brantford, Brant/Haldimand-Norfolk, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 756-3142  |  Email: contact@brantfordheatingcooling.ca  |  Website: https://brantfordheatingcooling.ca
+
+Service areas: Brantford, Paris, Caledonia, Dunnville, Simcoe, Port Dover, Nanticoke, Ayr, Aylmer
 
 ## Key pages
-- [Home](https://brantfordheatingcooling.ca/)
-- [Services](https://brantfordheatingcooling.ca/services/)
-- [About](https://brantfordheatingcooling.ca/about/)
-- [Blog](https://brantfordheatingcooling.ca/blog/)
-- [Contact](https://brantfordheatingcooling.ca/contact/)
 
-## Contact
-- Phone: (519) 756-3142
-- Email: contact@brantfordheatingcooling.ca
-- Area served: Brantford, Ontario and Brant/Haldimand-Norfolk
+- [Home](https://brantfordheatingcooling.ca/): Brantford Heating & Cooling homepage with service overview and FAQ
+- [About](https://brantfordheatingcooling.ca/about/): About the company and service area
+- [Contact](https://brantfordheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://brantfordheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair in Brantford, Ontario
+- [AC Installation & Repair](https://brantfordheatingcooling.ca/services/ac-repair/): AC Installation & Repair in Brantford, Ontario
+- [Heat Pumps](https://brantfordheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps in Brantford, Ontario
+- [Duct Cleaning](https://brantfordheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Brantford, Ontario
+- [Thermostats](https://brantfordheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in Brantford, Ontario
+- [Ductless AC Installation](https://brantfordheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Brantford, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Brantford are answered on the homepage.
